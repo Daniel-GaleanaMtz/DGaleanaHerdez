@@ -1,0 +1,26 @@
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\DGaleanaHerdezService\bin\DGaleanaHerdezService.dll.config
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\DGaleanaHerdezService\bin\DGaleanaHerdezService.dll
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\DGaleanaHerdezService\bin\DGaleanaHerdezService.pdb
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\DGaleanaHerdezService\bin\BL.dll
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\DGaleanaHerdezService\bin\ML.dll
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\DGaleanaHerdezService\bin\DL.dll
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\DGaleanaHerdezService\bin\BL.pdb
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\DGaleanaHerdezService\bin\ML.pdb
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\DGaleanaHerdezService\bin\DL.pdb
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\DGaleanaHerdezService\obj\Debug\DGaleanaHerdezService.csprojResolveAssemblyReference.cache
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\DGaleanaHerdezService\obj\Debug\DGaleanaHerdezService.dll
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\DGaleanaHerdezService\obj\Debug\DGaleanaHerdezService.pdb
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\DGaleanaHerdezService\bin\DGaleanaHerdezService.dll.config
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\DGaleanaHerdezService\bin\DGaleanaHerdezService.dll
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\DGaleanaHerdezService\bin\DGaleanaHerdezService.pdb
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\DGaleanaHerdezService\bin\BL.dll
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\DGaleanaHerdezService\bin\ML.dll
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\DGaleanaHerdezService\bin\DL.dll
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\DGaleanaHerdezService\bin\BL.pdb
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\DGaleanaHerdezService\bin\ML.pdb
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\DGaleanaHerdezService\bin\DL.pdb
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\DGaleanaHerdezService\obj\Debug\DGaleanaHerdezService.csproj.AssemblyReference.cache
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\DGaleanaHerdezService\obj\Debug\DGaleanaHerdezService.csproj.CoreCompileInputs.cache
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\DGaleanaHerdezService\obj\Debug\DGaleanaHerdezService.csproj.CopyComplete
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\DGaleanaHerdezService\obj\Debug\DGaleanaHerdezService.dll
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\DGaleanaHerdezService\obj\Debug\DGaleanaHerdezService.pdb

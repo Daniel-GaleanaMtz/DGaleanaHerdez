@@ -1,0 +1,10 @@
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\ML\bin\Debug\ML.dll
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\ML\bin\Debug\ML.pdb
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\ML\obj\Debug\ML.dll
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\ML\obj\Debug\ML.pdb
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\ML\bin\Debug\ML.dll
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\ML\bin\Debug\ML.pdb
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\ML\obj\Debug\ML.csproj.AssemblyReference.cache
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\ML\obj\Debug\ML.csproj.CoreCompileInputs.cache
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\ML\obj\Debug\ML.dll
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\ML\obj\Debug\ML.pdb

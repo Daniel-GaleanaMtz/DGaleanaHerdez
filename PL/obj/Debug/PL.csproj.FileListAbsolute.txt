@@ -1,0 +1,27 @@
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\PL\bin\Debug\PL.exe.config
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\PL\bin\Debug\PL.exe
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\PL\bin\Debug\PL.pdb
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\PL\bin\Debug\BL.dll
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\PL\bin\Debug\ML.dll
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\PL\bin\Debug\DL.dll
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\PL\bin\Debug\BL.pdb
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\PL\bin\Debug\ML.pdb
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\PL\bin\Debug\DL.pdb
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\PL\obj\Debug\PL.exe
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\PL\obj\Debug\PL.pdb
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\PL\bin\Debug\PL.exe.config
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\PL\bin\Debug\PL.exe
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\PL\bin\Debug\PL.pdb
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\PL\bin\Debug\BL.dll
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\PL\bin\Debug\ML.dll
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\PL\bin\Debug\DL.dll
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\PL\bin\Debug\BL.pdb
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\PL\bin\Debug\ML.pdb
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\PL\bin\Debug\DL.pdb
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\PL\obj\Debug\PL.csproj.AssemblyReference.cache
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\PL\obj\Debug\PL.csproj.SuggestedBindingRedirects.cache
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\PL\obj\Debug\PL.exe
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\PL\obj\Debug\PL.pdb

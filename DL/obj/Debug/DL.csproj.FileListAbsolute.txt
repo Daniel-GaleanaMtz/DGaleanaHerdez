@@ -1,0 +1,10 @@
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\DL\bin\Debug\DL.dll
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\DL\bin\Debug\DL.pdb
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\DL\obj\Debug\DL.dll
+C:\Users\ALIEN 20\Documents\DGaleana\DGaleanaHerdez\DL\obj\Debug\DL.pdb
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\DL\bin\Debug\DL.dll
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\DL\bin\Debug\DL.pdb
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\DL\obj\Debug\DL.csproj.AssemblyReference.cache
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\DL\obj\Debug\DL.dll
+C:\Users\mike_\OneDrive\Escritorio\Programa\DGaleanaHerdez\DL\obj\Debug\DL.pdb
